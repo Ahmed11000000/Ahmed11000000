@@ -1,16 +1,32 @@
-## Hi there 👋
+Hi, I'm Ahmed Ali 👋
 
-<!--
-**Ahmed11000000/Ahmed11000000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Artificial Intelligence Student at Delta University for Science and Technology
 
-Here are some ideas to get you started:
+💻 Aspiring Machine Learning Engineer | Python Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+About Me
+
+- 🌱 Currently learning Machine Learning and Data Science.
+- 🐍 Practicing Python and its data science libraries.
+- 🤖 Interested in building practical AI and Machine Learning projects.
+- 🎯 Working toward becoming a professional Machine Learning Engineer.
+
+Technical Skills
+
+- Programming: Python, Java, C#
+- Data Science: NumPy, Pandas, Matplotlib, Scikit-learn (learning and practicing)
+- Core Concepts: Algorithms, Object-Oriented Programming
+
+Featured Projects
+
+- 🏠 House Price Prediction — A Machine Learning project using Linear Regression, model evaluation with MAE and R², and data visualization.
+
+Current Goals
+
+- Improve my Machine Learning skills through hands-on projects.
+- Build a strong portfolio in AI and Data Science.
+- Contribute to open-source projects.
+
+Connect With Me
+
+- LinkedIn: "My LinkedIn Profile" (https://www.linkedin.com/in/ahmed-ali-5a028b416/)
